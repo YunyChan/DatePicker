@@ -1,0 +1,22 @@
+{
+  "name": "datepicker_johnnyzheng",
+  "version": "1.0.0",
+  "description": "<h2>组件说明</h2>\r 　　日期选择组件，覆盖大部分的日期选择的交互和功能，特别适合基于日期操作的配置类或数据展示类PC端系统或者应用，或者手机端的有日期点选操作的H5应用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunyChan/DatePicker.git"
+  },
+  "keywords": [
+    "datepicker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YunyChan/DatePicker/issues"
+  },
+  "homepage": "https://github.com/YunyChan/DatePicker#readme"
+}
